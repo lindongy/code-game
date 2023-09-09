@@ -1,6 +1,6 @@
 import * as React from 'react';
 import './commont.css';
-import Index from './Page'
+import Index from '.'
 
 export default function App() {
     return (
